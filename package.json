@@ -1,0 +1,11 @@
+{
+  "name": "rpc-error-repro",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "@cloudflare/vitest-pool-workers": "^0.5.41",
+    "@cloudflare/workers-types": "^4.20241230.0",
+    "vitest": "^2.1.8",
+    "wrangler": "^3.100.0"
+  }
+}
